@@ -64,7 +64,7 @@
 | K:03 v4 + Qube      | [left][z83] [right][z82] [qube][z84]           | [left][z83] [right][z82] [qube][z85] |
 | Imperial44          | [left][z90] [right][z92]                       | [left][z91] [right][z92]             |
 | Imperial44 + Qube   | [left][z93] [right][z92] [qube][z94]           | [left][z93] [right][z92] [qube][z95] |
-| Trackball           | [mini v3.0][z40] [mini v3.1][z41] [royal][z42] |                                      |
+| Trackball           | [mini v3.0][z40] [mini v3.1][z41] [royale][z42] |                                      |
 
 
 [Reset all settings for ZMK device][z00]
@@ -119,7 +119,7 @@
 | Velvet v3 UI | [left][r70] [right][r71]                       |
 | K:03 v4      | [left][r80] [right][r82]                       |
 | Imperial44   | [left][r90] [right][r92]                       |
-| Trackball    | [mini v3.0][r40] [mini v3.1][r41] [royal][r42] |
+| Trackball    | [mini v3.0][r40] [mini v3.1][r41] [royale][r42] |
 
 
 [Reset all settings for RMK device][r00]
