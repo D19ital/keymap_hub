@@ -1,4 +1,4 @@
-| [Firmware update guide][01]  | [Инструкция по прошивке][02] | [QMK Source code][03] | [ZMK Source code][04] | [RMK Source code][05] |
+| [Firmware update guide][01]  | [Инструкция по прошивке][02] | [RMK Source code][05] | [QMK Source code][03] | [ZMK Source code][04] |
 | ---------------------------  | ---------------------------- | --------------------- | --------------------- | --------------------- |
 
 [01]: https://docs.ergohaven.xyz/en/
