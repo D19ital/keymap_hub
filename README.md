@@ -124,23 +124,23 @@
 
 [Reset all settings for RMK device][r00]
 
-[r00]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/settings_reset-ergohaven-zmk.uf2
+[r00]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/settings_reset.uf2
 
-[r40]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/trackball_v3.0-ergohaven-zmk.uf2
-[r41]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/trackball_v3.1-ergohaven-zmk.uf2
-[r42]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/trackball_royal-ergohaven-zmk.uf2
+[r40]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/trackball_v30.uf2
+[r41]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/trackball_v31.uf2
+[r42]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/trackball_royal.uf2
 
-[r50]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/op36_left-ergohaven-zmk.uf2
-[r52]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/op36_right-ergohaven-zmk.uf2
+[r50]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/op36_left.uf2
+[r52]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/op36_right.uf2
 
-[r60]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/velvet_v3_left-ergohaven-zmk.uf2
-[r62]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/velvet_v3_right-ergohaven-zmk.uf2
+[r60]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/velvet_left.uf2
+[r62]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/velvet_right.uf2
 
-[r70]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/velvet_v3_ui_left-ergohaven-zmk.uf2
-[r71]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/velvet_v3_ui_right-ergohaven-zmk.uf2
+[r70]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/velvet_ui_left.uf2
+[r71]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/velvet_ui_right.uf2
 
-[r80]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/k03_left-ergohaven-zmk.uf2
-[r82]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/k03_right-ergohaven-zmk.uf2
+[r80]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/k03_left.uf2
+[r82]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/k03_right.uf2
 
-[r90]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/imperial44_left-ergohaven-zmk.uf2
-[r92]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/imperial44_right-ergohaven-zmk.uf2
+[r90]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/imperial44_left.uf2
+[r92]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/imperial44_right.uf2
