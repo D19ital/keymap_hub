@@ -126,9 +126,9 @@
 
 [r00]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/settings_reset.uf2
 
-[r40]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/trackball_v30.uf2
-[r41]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/trackball_v31.uf2
-[r42]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/trackball_royal.uf2
+[r40]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/trackball_mini_v3.0.uf2
+[r41]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/trackball_mini_v3.1.uf2
+[r42]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/trackball_royale.uf2
 
 [r50]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/op36_left.uf2
 [r52]: https://github.com/ergohaven/rmk/releases/download/v0.1.0/op36_right.uf2
