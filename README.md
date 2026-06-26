@@ -11,6 +11,7 @@
 ## RMK (wireless)
 | Device       | Standard layout                                |
 | ------------ | ---------------------------------------------- |
+| K:04         | [left][r01] [right][r02]                       |
 | OP36         | [left][r50] [right][r52]                       |
 | Velvet v3    | [left][r60] [right][r62]                       |
 | Velvet v3 UI | [left][r70] [right][r71]                       |
@@ -23,8 +24,11 @@
 
 [r00]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/rmk_settings_reset.uf2
 
-[r40]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_trackball_v30.uf2
-[r41]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_trackball_v31.uf2
+[r01]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_k04_left.uf2
+[r02]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_k04_right.uf2
+
+[r40]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_trackball_mini_v3.0.uf2
+[r41]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_trackball_mini_v3.1.uf2
 [r42]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_trackball_royale.uf2
 
 [r50]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_op36_left.uf2
