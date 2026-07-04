@@ -12,11 +12,12 @@
 | Device       | Standard layout                                |
 | ------------ | ---------------------------------------------- |
 | K:04         | [left][r01] [right][r02]                       |
+| K:04 Mini    | [left][r03] [right][r04]                       |
+| K:03 v4      | [left][r80] [right][r82]                       |
+| Imperial44   | [left][r90] [right][r92]                       |
 | OP36         | [left][r50] [right][r52]                       |
 | Velvet v3    | [left][r60] [right][r62]                       |
 | Velvet v3 UI | [left][r70] [right][r71]                       |
-| K:03 v4      | [left][r80] [right][r82]                       |
-| Imperial44   | [left][r90] [right][r92]                       |
 | Trackball    | [mini v3.0][r40] [mini v3.1][r41] [royale][r42] |
 
 
@@ -26,6 +27,8 @@
 
 [r01]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_k04_left.uf2
 [r02]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_k04_right.uf2
+[r03]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_k04_mini_left.uf2
+[r04]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_k04_mini_right.uf2
 
 [r40]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_trackball_mini_v3.0.uf2
 [r41]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_trackball_mini_v3.1.uf2
@@ -50,6 +53,9 @@
 ## QMK (wired)
 | Previous devices                                    | Current devices                   |
 | --------------------------------------------------- | --------------------------------- |
+|                                                     | [Phenom][q29]                     |
+|                                                     | [Phenom Mini][q30]                |
+|                                                     | [Phenom Micro][q31]               |
 | [K:03 v1/v2][q05]                                   | [K:03 v3/v4][q19]                 |
 | [Imperial44 v1/v2][q06]                             | [Imperial44 v3/v4][q24]           |
 | [Planeta v1][q08]                                   | [Planeta v2][q09]                 |
@@ -62,9 +68,6 @@
 |                                                     | [HPD v2 (encoder/touch)][q23]     |
 |                                                     | [HPD v2 (encoder/joystick)][q26]  |
 |                                                     | [SM30][q28]                       |
-|                                                     | [Phenom][q29]                     |
-|                                                     | [Phenom Mini][q30]                |
-|                                                     | [Phenom Micro][q31]                |
 | [K:02][q07]                                         |                                   |
 | [Remnant][q12]                                      |                                   |
 
@@ -100,16 +103,16 @@
 ## ZMK (wireless)
 | Device              | Standard layout                                | RuEn layout                          |
 | ------------------- | ---------------------------------------------- | ------------------------------------ |
+| K:03 v4             | [left][z80] [right][z82]                       | [left][z81] [right][z82]             |
+| K:03 v4 + Qube      | [left][z83] [right][z82] [qube][z84]           | [left][z83] [right][z82] [qube][z85] |
+| Imperial44          | [left][z90] [right][z92]                       | [left][z91] [right][z92]             |
+| Imperial44 + Qube   | [left][z93] [right][z92] [qube][z94]           | [left][z93] [right][z92] [qube][z95] |
 | OP36                | [left][z50] [right][z52]                       | [left][z51] [right][z52]             |
 | OP36 + Qube         | [left][z53] [right][z52] [qube][z54]           | [left][z53] [right][z52] [qube][z55] |
 | Velvet v3           | [left][z60] [right][z62]                       | [left][z61] [right][z62]             |
 | Velvet v3 + Qube    | [left][z63] [right][z62] [qube][z64]           | [left][z63] [right][z62] [qube][z65] |
 | Velvet v3 UI        | [left][z70] [right][z71]                       | [left][z70] [right][z72]             |
 | Velvet v3 UI + Qube | [left][z70] [right][z73] [qube][z74]           | [left][z70] [right][z73] [qube][z75] |
-| K:03 v4             | [left][z80] [right][z82]                       | [left][z81] [right][z82]             |
-| K:03 v4 + Qube      | [left][z83] [right][z82] [qube][z84]           | [left][z83] [right][z82] [qube][z85] |
-| Imperial44          | [left][z90] [right][z92]                       | [left][z91] [right][z92]             |
-| Imperial44 + Qube   | [left][z93] [right][z92] [qube][z94]           | [left][z93] [right][z92] [qube][z95] |
 | Trackball           | [mini v3.0][z40] [mini v3.1][z41] [royale][z42] |                                      |
 
 
