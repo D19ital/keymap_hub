@@ -13,6 +13,7 @@
 | ------------ | ---------------------------------------------- |
 | K:04         | [left][r01] [right][r02]                       |
 | K:04 Mini    | [left][r03] [right][r04]                       |
+| K:04 Micro   | [left][r05] [right][r06]                       |
 | K:03 v4      | [left][r80] [right][r82]                       |
 | Imperial44   | [left][r90] [right][r92]                       |
 | OP36         | [left][r50] [right][r52]                       |
@@ -29,6 +30,8 @@
 [r02]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_k04_right.uf2
 [r03]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_k04_mini_left.uf2
 [r04]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_k04_mini_right.uf2
+[r05]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_k04_micro_left.uf2
+[r06]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_k04_micro_right.uf2
 
 [r40]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_trackball_mini_v3.0.uf2
 [r41]: https://github.com/ergohaven/rmk-eh/releases/download/v0.1.1/0.1.1_trackball_mini_v3.1.uf2
