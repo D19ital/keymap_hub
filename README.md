@@ -1,6 +1,6 @@
 # Ergohaven firmware
 
-Прошивки теперь находятся в документации Ergohaven:
+Firmware is now available in the Ergohaven documentation:
 
 - [Русская версия](https://docs.ergohaven.xyz/firmware/)
 - [English version](https://docs.ergohaven.xyz/en/firmware/)
