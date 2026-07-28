@@ -5,6 +5,9 @@ Firmware is now available in the Ergohaven documentation:
 - [Русская версия](https://docs.ergohaven.xyz/firmware/)
 - [English version](https://docs.ergohaven.xyz/en/firmware/)
 
+<details>
+<summary>Firmware archive</summary>
+
 ## RMK (wireless)
 | Device       | Standard layout                                |
 | ------------ | ---------------------------------------------- |
@@ -159,3 +162,5 @@ Firmware is now available in the Ergohaven documentation:
 [z93]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/imperial44_left_qube-ergohaven-zmk.uf2
 [z94]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/imperial44_qube-ergohaven-zmk.uf2
 [z95]: https://github.com/ergohaven/ergohaven-zmk/releases/download/2026.03.16/imperial44_qube_ruen-ergohaven-zmk.uf2
+
+</details>
